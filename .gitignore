@@ -1,0 +1,13 @@
+# secrets - never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Streamlit / editors
+.streamlit/secrets.toml
+.vscode/
+.DS_Store
